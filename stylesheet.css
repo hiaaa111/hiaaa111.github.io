@@ -1,0 +1,153 @@
+.buttons {
+    position: absolute;
+    transform: translate(25%);
+}
+
+hr {
+    height: 5px;
+    background-color: black;
+}
+
+#home {
+    font-size: 30px;
+    padding: 10px 65px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+#expedition {
+    font-size: 30px;
+    padding: 10px 65px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+#btn1 {
+    font-size: 30px;
+    padding: 10px 65px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+#btn2 {
+    font-size: 30px;
+    padding: 10px 65px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+#btn3 {
+    font-size: 30px;
+    padding: 10px 35px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+#btn4 {
+    font-size: 30px;
+    padding: 10px 20px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+#btn5 {
+    font-size: 30px;
+    padding: 10px 20px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+#btn6 {
+    font-size: 30px;
+    padding: 10px 75px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+#btn7 {
+    font-size: 30px;
+    padding: 10px 75px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+#btn8 {
+    font-size: 30px;
+    padding: 10px 75px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+#btn9 {
+    font-size: 30px;
+    padding: 10px 75px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+#btn10 {
+    font-size: 30px;
+    padding: 10px 65px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+#btn11 {
+    font-size: 30px;
+    padding: 10px 65px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+#btn12 {
+    font-size: 30px;
+    padding: 10px 75px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+#check {
+    font-size: 30px;
+    padding: 5px 20px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+#check:hover {
+    background-color: lightslategray;
+}
+
+#team {
+    font-size: 100px;
+    text-align: center;
+}
+
+#info {
+    font-size: 100px;
+    text-align: center;
+}
+
+#title {
+    font-size: 100px;
+    text-align: center;
+}
+
+#score {
+    font-size: 100px;
+    text-align: center;
+}
