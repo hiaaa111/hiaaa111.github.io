@@ -1,6 +1,8 @@
 .buttons {
     position: absolute;
-    transform: translate(25%);
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 hr {
