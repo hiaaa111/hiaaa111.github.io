@@ -181,7 +181,7 @@ function startGame(){
         info.innerText = '승 패'
         score.innerText = win_score + ' : ' + lose_score;
     }else if(game_result === 1){
-        info.innerText = '무승부 무승부'
+        info.innerText = '  무승부'
         score.innerText = lose_score + ' : ' + lose_score;
     }else if(game_result === 2){
         info.innerText = '패 승'
